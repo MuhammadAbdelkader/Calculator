@@ -1,30 +1,45 @@
-# Calculator
+# 🧮 Calculator
 
 A responsive, dark-themed calculator built with HTML, CSS, and JavaScript.  
-It supports standard arithmetic operations, real-time evaluation, and input validation to prevent invalid expressions.
+Supports live evaluation and handles common arithmetic operations with precision.
 
-## Features
+🔗 **Live Demo**: [calculator-three-blond-81.vercel.app](https://calculator-three-blond-81.vercel.app/)
 
-- Supports `+`, `−`, `×`, `÷`, `%`, `()`, `.`
-- Real-time expression preview and evaluation
-- Input validation with syntax error handling
-- Clear (AC) and Backspace (⌫) functionality
-- Responsive layout for desktop and mobile
-- Modern dark UI using CSS Grid and Flexbox
+📁 **Repository**: [github.com/MuhammadAbdelkader/Calculator](https://github.com/MuhammadAbdelkader/Calculator)
 
-## Technologies Used
+---
 
-- HTML5
-- CSS3 (Flexbox & Grid Layout)
-- Vanilla JavaScript (ES6+)
+## ✨ Features
 
-## Installation
+- Basic operations: `+`, `−`, `×`, `÷`, `%`, `()`, `.`
+- Real-time result preview
+- Input validation & error handling
+- Clear (`AC`) and backspace (`⌫`) functions
+- Responsive design (desktop & mobile)
+- Smooth, modern dark UI
+
+---
+
+## 🛠️ Technologies
+
+- **HTML5**
+- **CSS3** — Flexbox & Grid
+- **Vanilla JavaScript (ES6+)**
+
+---
+
+## 🚀 Getting Started
 
 To run the project locally:
 
 ```bash
 git clone https://github.com/MuhammadAbdelkader/Calculator.git
 cd Calculator
-
-
 ```
+
+---
+
+## 👤 Author
+
+**Mohamed Abdelkader**  
+GitHub: [@MuhammadAbdelkader](https://github.com/MuhammadAbdelkader)
