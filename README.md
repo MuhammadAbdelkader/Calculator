@@ -3,7 +3,7 @@
 A responsive, dark-themed calculator built with HTML, CSS, and JavaScript.  
 Supports live evaluation and handles common arithmetic operations with precision.
 
-🔗 **Live Demo**: [calculator-three-blond-81.vercel.app](https://calculator-three-blond-81.vercel.app/)
+🔗 **Live Demo**: [calculator-three-blond-81.vercel.app](https://calculator-zeta-roan-87.vercel.app/)
 
 📁 **Repository**: [github.com/MuhammadAbdelkader/Calculator](https://github.com/MuhammadAbdelkader/Calculator)
 
