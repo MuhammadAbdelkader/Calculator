@@ -39,7 +39,7 @@ cd Calculator
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
 **Mohamed Abdelkader**  
 GitHub: [@MuhammadAbdelkader](https://github.com/MuhammadAbdelkader)
